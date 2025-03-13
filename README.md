@@ -1,4 +1,4 @@
-<h1>✨ Full Stack Software Engineer </h1>
+<h1>✨ Full Stack Developer </h1>
 
 <br>
 
@@ -25,6 +25,7 @@
   <img align="center" alt="TypeScript" title="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />        
   <img align="center" alt="React" title="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Node.js" title="Node.JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="PHP" title="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </div>
 
 ### Data Analytics
